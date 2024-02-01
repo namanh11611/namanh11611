@@ -36,9 +36,16 @@
 </p>
 
 <h3 align="left">🔭 GitHub Highlights:</h3>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=namanh11611&show_icons=true&locale=en&theme=material-palenight" alt="namanh11611" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=namanh11611&show_icons=true&locale=en&theme=material-palenight" alt="namanh11611" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namanh11611&theme=material-palenight" alt="namanh11611" /></p>
+
+<h3 align="left">💻 Leetcode:</h3>
+<p align="center">
+  <a href="https://leetcode.com/namanh11611" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/namanh11611?theme=dark&font=Noto%20Sans" alt="namanh11611" />
+  </a>
+</p>
 
 <h3 align="left">🏆 Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanh11611&theme=gruvbox" alt="namanh11611" /></a> </p>
