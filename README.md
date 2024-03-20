@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/namanh11611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanh11611" height="30" width="40" /></a>
 <a href="https://medium.com/@namanh11611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@namanh11611" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6107647/namanh11611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="namanh11611" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namanh11611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namanh11611" height="30" width="40" /></a>
 <a href="https://twitter.com/namanh11611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanh11611" height="30" width="40" /></a>
 <a href="https://fb.com/namanh11611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="namanh11611" height="30" width="40" /></a>
 </p>
@@ -39,13 +38,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=namanh11611&show_icons=true&locale=en&theme=material-palenight" alt="namanh11611" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namanh11611&theme=material-palenight" alt="namanh11611" /></p>
-
-<h3 align="left">💻 Leetcode:</h3>
-<p align="center">
-  <a href="https://leetcode.com/namanh11611" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/namanh11611?theme=dark&font=Noto%20Sans" alt="namanh11611" />
-  </a>
-</p>
 
 <h3 align="left">🏆 Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanh11611&theme=gruvbox" alt="namanh11611" /></a> </p>
